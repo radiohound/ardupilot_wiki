@@ -11,7 +11,7 @@ Passthrough FrSky Telemetry is the latest protocol available in ArduPilot and it
 
 Compared to older Repurposed FrSky telemetry, passthrough telemetry contains ArduPilot specific information such as flight modes, error messages, warnings, and failsafes.
 
-ArduPilot's Passthrough FrSky telemetry protocol is an open protocol that is free to use. `Yaapu FrSky Telemetry Script for OpenTX <common-frsky-yaapu>`_  is a free script for OpenTX that will display it on your TX. `FlightDeck <http://www.craftandtheoryllc.com/flightdeck-taranis-user-interface-for-ardupilot-arducopter-arduplane-pixhawk-frsky-telemetry-smartport/>`__ is an OpenTX paid app for Taranis that uses passthrough telemetry.
+ArduPilot's Passthrough FrSky telemetry protocol is an open protocol that is free to use. :ref:`Yaapu FrSky Telemetry Script for OpenTX <common-frsky-yaapu>`_  is a free script for OpenTX that will display it on your TX. `FlightDeck <http://www.craftandtheoryllc.com/flightdeck-taranis-user-interface-for-ardupilot-arducopter-arduplane-pixhawk-frsky-telemetry-smartport/>`__ is an OpenTX paid app for Taranis that uses passthrough telemetry.
 
 The ArduPilot passthrough telemetry specification including data packets and message rates is available as a `spreadsheet <https://cdn.rawgit.com/ArduPilot/ardupilot_wiki/33cd0c2c/images/FrSky_Passthrough_protocol.xlsx>`__.
 
